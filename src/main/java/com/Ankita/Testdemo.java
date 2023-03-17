@@ -45,7 +45,7 @@ package com.Ankita;
 				
 					{out.print("<H1>Hello! </H1>" +firstName+ " " +LastName+ " please gift me a new cloth else I will disclose your password...Heheee ");}
 				
-			System.out.print(password);
+			
 			
 		
 
